@@ -1,0 +1,8 @@
+gradio>=5.0
+numpy>=1.26
+pandas>=2.1
+plotly>=5.20
+scikit-learn>=1.4
+torch>=2.2
+yfinance>=0.2.40
+requests>=2.31
